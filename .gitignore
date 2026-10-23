@@ -3,10 +3,15 @@
 .env.*
 !.env.example
 .venv/
+.venv-demo/
 venv/
 .idea/
 __pycache__/
 *.pyc
+*.pyo
+.ruff_cache/
+.coverage
+htmlcov/
 .pytest_cache/
 .streamlit/secrets.toml
 # Local backups and generated execution output

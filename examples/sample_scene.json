@@ -1,0 +1,72 @@
+{
+  "origin": "illustrative_sample",
+  "provider_calls": 0,
+  "description": "An authored UI example, not evidence of a successful model run or canon verification.",
+  "request": {
+    "story_context": "A Cardassian defector secretly approaches Garak on Deep Space 9 with intelligence claiming that the Founders have infiltrated the Cardassian government. Garak must decide how seriously to take the allegation and whether to involve the DS9 command staff. The defector's allegation is a fictional story premise, not an established canon fact.",
+    "scene_objective": "Garak evaluates the defector's claim and decides what corroboration is needed before involving DS9 command staff.",
+    "story_era": "Star Trek: Deep Space Nine, shortly before the Dominion War",
+    "characters": [
+      "Elim Garak",
+      "Cardassian Defector"
+    ],
+    "era_style_constraints": [
+      "Use classic Deep Space Nine screenplay style and restrained dialogue.",
+      "Let uncertainty and competing motives drive the scene."
+    ],
+    "scene_requirements": [
+      "Write one complete scene of approximately 500 to 700 words.",
+      "Give the defector a concrete fictional observation for Garak to question without proving the allegation true.",
+      "End with a specific next step for investigating the allegation."
+    ],
+    "prohibited_assumptions": [
+      "Do not assume Garak has current contacts in Cardassian Central Command.",
+      "Do not establish the defector's allegation as canon or as proven fact.",
+      "Leave historical ranks, official posts, and event chronology unstated when the supplied material does not establish them."
+    ],
+    "unresolved_questions": [
+      "What does the supplied material establish about Garak's official status during this story period?",
+      "Which contacts can Garak actually use during this period?",
+      "Which character voice choices are supported by dialogue research?"
+    ]
+  },
+  "character_notes": {
+    "characters": [
+      {
+        "character_name": "Elim Garak",
+        "dramatic_goal": "Separate an observable discrepancy from an unsupported explanation.",
+        "performance_notes": [
+          "Use the tailoring exchange to deflect pressure.",
+          "Offer a concrete next step without claiming access to current intelligence contacts."
+        ],
+        "open_questions": [
+          "Does this dialogue match researched Garak voice examples?"
+        ]
+      },
+      {
+        "character_name": "Cardassian Defector",
+        "dramatic_goal": "Get the allegation investigated without revealing every source.",
+        "performance_notes": [
+          "Let fear interrupt the account.",
+          "Give a checkable observation while preserving uncertainty about its cause."
+        ],
+        "open_questions": [
+          "What independently obtained evidence could corroborate the account?"
+        ]
+      }
+    ]
+  },
+  "scene": {
+    "scene_heading": "INT. GARAK'S SHOP — DAY",
+    "setting_description": "A fictional meeting on Deep Space Nine, shortly before the Dominion War.",
+    "characters_present": [
+      "Elim Garak",
+      "Cardassian Defector"
+    ],
+    "script_text": "Garak smooths a length of gray cloth across his cutting table. The visitor watches the shop entrance instead of the cloth.\n\nGARAK\nIf you continue looking at the door, I shall have to assume you dislike my selection.\n\nCARDASSIAN DEFECTOR\nI was told you could recognize something that did not fit.\n\nGARAK\nUsually a sleeve. Occasionally a customer.\n\nThe visitor sets a small data rod beside the shears. Garak leaves it where it is.\n\nCARDASSIAN DEFECTOR\nThree cargo clearances. Different ships, different officers. The same correction, entered after each vessel had departed.\n\nGARAK\nAn industrious clerk.\n\nCARDASSIAN DEFECTOR\nOne of the officers was with me when his correction was entered. The terminal record says he made it himself.\n\nGarak lifts the cloth, considering its weight.\n\nGARAK\nAnd from this you have arrived at the Founders.\n\nCARDASSIAN DEFECTOR\nSomeone is using identities that belong to other people.\n\nGARAK\nThat describes a considerable number of people. Most of them remain disappointingly solid.\n\nCARDASSIAN DEFECTOR\nYou think I invented it.\n\nGARAK\nI think you have brought me an observation and an explanation. They are not obliged to travel together.\n\nA pair of footsteps passes outside. The visitor stops breathing until they fade.\n\nGarak places a chair at the far end of the table, away from the entrance.\n\nGARAK\nSit. A frightened customer is very difficult to measure.\n\nThe visitor sits but keeps one hand on the data rod.\n\nCARDASSIAN DEFECTOR\nIf I take this to the station authorities, they will ask where it came from.\n\nGARAK\nAn unreasonable habit. I may indulge in it myself.\n\nCARDASSIAN DEFECTOR\nI copied the entries. I did not alter them.\n\nGARAK\nThat answers a different question.\n\nSilence. The visitor withdraws his hand.\n\nCARDASSIAN DEFECTOR\nThere is a second record. A maintenance terminal recorded a power interruption. The correction was entered during that interruption.\n\nFor the first time, Garak looks directly at the rod.\n\nGARAK\nDoes it contain the maintenance record?\n\nCARDASSIAN DEFECTOR\nNo. Only the clearances.\n\nGARAK\nThen it contains the part of your story you chose to bring me.\n\nCARDASSIAN DEFECTOR\nI could obtain the other record.\n\nGARAK\nPerhaps. Or you could tell me where an independent person might find it.\n\nThe visitor studies him. The fear has acquired a second object.\n\nCARDASSIAN DEFECTOR\nAnd then you will believe me?\n\nGARAK\nThen we may agree that there is something worth explaining.\n\nGarak turns over a blank order slip and slides it across the table.\n\nGARAK\nThe terminal designation. The approximate time. Nothing you merely suspect.\n\nThe visitor writes. Garak does not reach for the slip until the writing stops.\n\nCARDASSIAN DEFECTOR\nWhat will you tell them?\n\nGARAK\nThat a record deserves examination. I find modest claims are less likely to disappoint.\n\nHe folds the slip once and leaves the rod untouched.\n\nGARAK\nKeep that safe. If the two records disagree, we shall have a question. Until then, we have an appointment.\n\nGarak picks up his shears. The visitor finally looks at the cloth.",
+    "reference_ids_used": [],
+    "invented_story_elements": [
+      "The defector, cargo clearances, maintenance record, and meeting are invented for this example."
+    ]
+  }
+}

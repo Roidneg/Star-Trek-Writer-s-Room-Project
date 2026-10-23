@@ -1,13 +1,12 @@
-langchain
-wikipedia
-langchain-community
-langchain-openai
-langchain-anthropic
-python-dotenv
-pydantic>=2,<3
-langchain_groq
-requests
-beautifulsoup4
-ddgs
-openai
-groq
+# Direct dependencies validated together on Python 3.12.
+streamlit==1.66.1
+pydantic==2.14.1
+python-dotenv==1.2.4
+langchain-core==1.7.0
+langchain-openai==1.7.2
+langchain-groq==1.1.3
+openai==3.37.0
+groq==0.37.1
+requests==2.34.2
+beautifulsoup4==4.15.0
+ddgs==9.16.0

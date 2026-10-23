@@ -2,7 +2,7 @@ import requests
 import re
 import html
 from ddgs import DDGS
-from langchain.tools import tool
+from langchain_core.tools import tool
 from bs4 import BeautifulSoup
 
 ## ----

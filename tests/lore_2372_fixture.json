@@ -1,0 +1,18 @@
+{
+  "scope": "User-supplied October 5 evidence; no new research or canon acceptance.",
+  "article_result": "Article: Elim Garak\nSource URL: https://memory-alpha.fandom.com/wiki/Elim_Garak\nExtract: Elim Garak was a Cardassian tailor and Promenade shopkeeper of Garak's Clothiers who lived on Deep Space 9. He had previously been an agent of the Cardassian intelligence agency, the Obsidian Order but was exiled to Terok Nor. He worked with Starfleet during the Dominion War, returning to Cardassia Prime just prior to the Battle of Cardassia to help organize the Cardassian Liberation Front. He was known to be a witty conversationalist and a skilled tailor. Underneath his friendly and charming exterior, he was a proficient assassin, saboteur and expert liar, able to adapt to a variety of situations. He loved Cardassia and hated his exile on DS9 but was good friends with Julian Bashir and Odo. (DS9: \"Cardassians\", \"The Wire\", \"Profit and Loss\", \"Broken Link\", \"Behind the Lines\", \"What You Leave Behind\")\n\n\n== Early life ==\nElim Garak was the son of Enabran Tain: a nefarious Cardassian who never grew tired of repeating to his son \"I should have killed  your mother before you were born. You have always been a weakness I can't afford.\" (DS9: \"In Purgatory's Shadow\")\nGarak had a strong, almost crippling, case of claustrophobia. (DS9: \"By Inferno's Light\") He told Ezri Dax that, in his youth...",
+  "source": "In 2372 , when Starfleet learned of the Invasion of Cardassia, Captain Benjamin Sisko used the pretence of Garak measuring him for a suit to allow Worf to deliver Sisko an intelligence report, in order to avoid betraying the Klingon Empire. When it was clear that the captain wasn't in need of a suit, and the entire meeting was a method of back-channel communication to the Detapa Council , Garak thanked the captain and said that he had \" Everything I need. \" Garak contacted Gul Dukat to warn him of the impending Klingon invasion of Cardassia. The two enemies fought side-by-side to defend the Detapa Council members during the First Battle of Deep Space 9 . ( DS9 : \" The Way of the Warrior \") Garak later admitted, however, that he was tempted to shoot Dukat in the back during the conflict but decided against it, if for no other reason than that he couldn't possibly defeat all of the Klingons alone. ( DS9 : \" Call to Arms \")",
+  "polluted_summary": "In 2372, Captain Benjamin Sisko pretended that Garak was measuring him for a new suit so that Lieutenant Worf could hand the captain an intelligence report without exposing the Klingon Empire’s involvement. The ruse served as a back‑channel to the Detapa Council. After the meeting, Garak thanked Sisko and said he had \"everything I need.\"",
+  "query": "What does canon establish about Garak's interaction with Sisko in 2372 involving a suit fitting and Worf's intelligence report?",
+  "observed_timing_failure": {
+    "report": "lore_source_contract_live_2741ed110a7f41edac73ad51921cdf60.json",
+    "scope": "Saved failed model judgment, not a corrected semantic verdict.",
+    "evidence": "The meeting ended before Garak thanked Sisko.",
+    "question": "Does this evidence establish that Garak thanked Sisko after the meeting ended?",
+    "expected_supported": true,
+    "old_premise_verdict": {
+      "premise_supported": false,
+      "reason": "The retrieved evidence states that the meeting ended before Garak thanked Sisko, which directly contradicts the claim that Garak thanked Sisko after the meeting ended. Therefore, the evidence does not establish the premise."
+    }
+  }
+}

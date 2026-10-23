@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+# Local backups and generated execution output
+*.bak*
+/runtime/

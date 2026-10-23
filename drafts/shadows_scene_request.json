@@ -1,0 +1,25 @@
+{
+  "story_context": "A Cardassian defector secretly approaches Garak on Deep Space 9 with intelligence claiming that the Founders have infiltrated the Cardassian government. Garak must decide how seriously to take the allegation and whether to involve the DS9 command staff. The defector's allegation is a fictional story premise, not an established canon fact.",
+  "scene_objective": "Garak evaluates the defector's claim and decides what corroboration is needed before involving DS9 command staff.",
+  "story_era": "Star Trek: Deep Space Nine, shortly before the Dominion War",
+  "characters": ["Elim Garak", "Cardassian Defector"],
+  "era_style_constraints": [
+    "Use classic Deep Space Nine screenplay style and restrained dialogue.",
+    "Let uncertainty and competing motives drive the scene."
+  ],
+  "scene_requirements": [
+    "Write one complete scene of approximately 500 to 700 words.",
+    "Give the defector a concrete fictional observation for Garak to question without proving the allegation true.",
+    "End with a specific next step for investigating the allegation."
+  ],
+  "prohibited_assumptions": [
+    "Do not assume Garak has current contacts in Cardassian Central Command.",
+    "Do not establish the defector's allegation as canon or as proven fact.",
+    "Leave historical ranks, official posts, and event chronology unstated when the supplied material does not establish them."
+  ],
+  "unresolved_questions": [
+    "What does the supplied material establish about Garak's official status during this story period?",
+    "Which contacts can Garak actually use during this period?",
+    "Which character voice choices are supported by dialogue research?"
+  ]
+}

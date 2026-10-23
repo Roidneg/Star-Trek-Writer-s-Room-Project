@@ -1,0 +1,13 @@
+langchain
+wikipedia
+langchain-community
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic>=2,<3
+langchain_groq
+requests
+beautifulsoup4
+ddgs
+openai
+groq

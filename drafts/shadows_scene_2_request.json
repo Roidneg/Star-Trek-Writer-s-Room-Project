@@ -1,0 +1,35 @@
+{
+  "story_context": "Fictional continuity for Shadows of the Obsidian Order, following the October 6 editorial revision of Scene 1: A Cardassian defector visited Garak's private quarters on DS9 with an edited recording of three alleged subspace bursts, twelve minutes apart, from a projector in Morit's office. Morit is a fictional offscreen figure with no assigned rank. The defector interpreted this as evidence of Founder infiltration. Garak did not accept that conclusion or confirm a Dominion signature. He retained the extract and asked for the original recording and a way to verify its origin before considering whether to approach Captain Sisko. The defector said he kept the original and left. Scene 2 begins when he returns with what he claims is that original. This continuity is invented story context, not canonical source evidence.",
+  "scene_objective": "Garak examines an interval omitted from the first recording, probes why the defector cut it, and decides on one bounded next step without proving Founder infiltration.",
+  "story_era": "Star Trek: Deep Space Nine, shortly before the Dominion War; exact placement unresolved",
+  "characters": [
+    "Elim Garak",
+    "Cardassian Defector"
+  ],
+  "era_style_constraints": [
+    "Use classic Deep Space Nine screenplay style and restrained, character-specific dialogue.",
+    "Build tension through politeness, evasions, and concrete observations; avoid exposition speeches."
+  ],
+  "scene_requirements": [
+    "Write one complete scene of approximately 500 to 700 words, continuing rather than retelling Scene 1.",
+    "Set the scene in Garak's private quarters, using a terminal to compare the retained extract with the claimed original.",
+    "Let an omitted interval expose one personal stake or inconsistency in the defector's account. Keep the meaning ambiguous.",
+    "Distinguish observation, allegation, and interpretation. Having more recording does not establish authenticity.",
+    "End with a specific next action Garak or the defector can actually take using available evidence.",
+    "Track the two recording copies consistently. Garak retained the first extract; the defector brings the claimed original."
+  ],
+  "prohibited_assumptions": [
+    "Do not assume Garak has current contacts in Cardassian Central Command.",
+    "Do not invent an available former Order contact or intelligence network to obtain evidence or solve the problem.",
+    "Do not establish the defector's allegation as canon or as proven fact.",
+    "Do not assert an established Order technique for identifying Dominion transmissions.",
+    "Leave historical ranks, official posts, and event chronology unstated when the supplied material does not establish them.",
+    "Do not silently treat prior provisional Character guidance or fictional scene continuity as factual canon."
+  ],
+  "unresolved_questions": [
+    "Why did the defector remove the intervals?",
+    "Is the claimed original authentic, and how could its origin be checked?",
+    "Does the discrepancy justify approaching Sisko, or only further questioning?",
+    "Which character voice choices and exact chronological placement need manual review?"
+  ]
+}

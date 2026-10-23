@@ -1,0 +1,36 @@
+{
+  "story_context": "Fictional continuity for Shadows of the Obsidian Order, following the October 6 editorial revisions of Scenes 1 and 2. A Cardassian defector alleges Founder infiltration of the government. He supplied Garak an extract of three clips with displayed timestamps twelve minutes apart, allegedly recorded in the office of Morit, a fictional offscreen figure without an assigned rank. A second, longer copy includes an omitted voice saying \"leave it open\", followed by a metallic knock. The defector says the voice is his and fears it implies he helped Morit; neither the voice nor either recording has been independently authenticated. He has not explained what was to be left open. Garak retains both data-slugs in his quarters and has requested the recording device with whatever it still contains. The defector claims the device is with his things on DS9. Garak has promised no lab access, outside assistance, source authentication, or meeting with Sisko. Scene 3 begins as the defector returns with a device he claims made the recording. These are fictional continuity details, not historical canon.",
+  "scene_objective": "Reveal what the defector says he meant by \"leave it open\", connect that admission to a personal stake, and let Garak decide a consequential next step based on a limited comparison with the supplied device.",
+  "story_era": "Star Trek: Deep Space Nine, shortly before the Dominion War; exact placement unresolved",
+  "characters": [
+    "Elim Garak",
+    "Cardassian Defector"
+  ],
+  "era_style_constraints": [
+    "Use classic Deep Space Nine screenplay style, with consistent GARAK and DEFECTOR dialogue labels.",
+    "Build tension through precise questions, guarded answers, and pauses. Keep dialogue natural rather than explaining the theme."
+  ],
+  "scene_requirements": [
+    "Write one complete scene of approximately 500 to 700 words in Garak's private quarters.",
+    "The defector brings the claimed recording device. Track the device and both retained data-slugs consistently.",
+    "Resolve what the defector CLAIMS he meant by \"leave it open\" within this scene; his explanation need not be true. Give him a concrete personal stake.",
+    "Garak can compare available file contents or displayed timestamps without inventing specialized equipment, access, or a decisive forensic technique. Agreement between copies does not prove their origin.",
+    "Advance beyond a repeated request for another recording. End with a meaningful choice prompted by the admission.",
+    "Garak may consider asking Sisko for help; any meeting or assistance must remain a proposed request, not assured access or cooperation."
+  ],
+  "prohibited_assumptions": [
+    "Do not assume Garak has current contacts in Cardassian Central Command.",
+    "Do not introduce a convenient intelligence network, available former Order contact, station lab, or private requisition to solve the problem.",
+    "Do not establish Founder infiltration or Dominion involvement as proven fact or canon.",
+    "Do not identify the metallic knock as a particular door, location, or machine without additional fictional evidence, and distinguish hypotheses from observations.",
+    "Do not call Garak \"Master Garak\" or assign him authority over station personnel.",
+    "Do not treat provisional Character guidance as canon. Leave unsupported historical ranks, official posts, and chronology unstated."
+  ],
+  "unresolved_questions": [
+    "Is the device what the defector claims it is?",
+    "Is his account of the omitted instruction truthful?",
+    "What personal consequence does he fear if his involvement becomes known?",
+    "Does his admission justify requesting outside help, and on what limited grounds?",
+    "Exact chronology and character voice still require manual review."
+  ]
+}
